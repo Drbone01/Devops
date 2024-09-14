@@ -57,10 +57,10 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 # Screenshots
-![Screenshot 1] (packages.png)
+![Screenshot 1] (./packages.png)
 
-![Screenshot 2] (projectlamp.png)
+![Screenshot 2] (./projectlamp.png)
 
-![Screenshot 3] (directories.png)
+![Screenshot 3] (./directories.png)
 
-![Screenshot 4] (CLI.png)
+![Screenshot 4] (./CLI.png)
