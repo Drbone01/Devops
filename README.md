@@ -57,19 +57,12 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 # Screenshots
-![Screenshot 1] (./packages.png)
+![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/projectlamp.PNG)
 
-![Screenshot 2] (./projectlamp.png)
+![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/packages.PNG)
 
-![Screenshot 3] (./directories.png)
+![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/CLI.PNG)
 
-![Screenshot 4] (./CLI.png)
+![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/directories.PNG)
 
-```Screenshot
 
-![Screenshot 1] (CLI.PNG)
-
-![Screenshot 2] (directories.PNG)
-
-![Screenshot 3] (projectlamp.PNG)
-```
