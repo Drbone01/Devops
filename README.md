@@ -64,3 +64,12 @@ sudo rm /var/www/projectlamp/index.php
 ![Screenshot 3] (./directories.png)
 
 ![Screenshot 4] (./CLI.png)
+
+```Screenshot
+
+![Screenshot 1] (CLI.PNG)
+
+![Screenshot 2] (directories.PNG)
+
+![Screenshot 3] (projectlamp.PNG)
+```
