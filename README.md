@@ -2,6 +2,8 @@
 # Github Link 
 [https://github.com/Drbone01/Devops](https://github.com/Drbone01/Devops)
 
+# Linkedin Post URL
+
 ```sql
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
 ```
@@ -53,3 +55,8 @@ phpinfo();
 sudo rm /var/www/projectlamp/index.php
 ```
 ```
+# Screenshots
+![Screenshot 1](Devops/image/All_installed_packages.png)
+![Screenshot 1](Devops/image/Lamp_project.png)
+![Screenshot 1](Devops/image/Root_directories.png)
+![Screenshot 1](Devops/image/Ubuntu_Server_CLI.png)
