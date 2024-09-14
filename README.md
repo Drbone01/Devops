@@ -56,7 +56,7 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 # Screenshots
-![Screenshot 1] Devops/image/All_installed_packages.png
-![Screenshot 1] Devops/image/Lamp_project.png
-![Screenshot 1] Devops/image/Root_directories.png
-![Screenshot 1] Devops/image/Ubuntu_Server_CLI.png
+![Screenshot 1] Devops/All_installed_packages.png
+![Screenshot 1] Devops/Lamp_project.png
+![Screenshot 1] Devops/Root_directories.png
+![Screenshot 1] Devops/Ubuntu_Server_CLI.png
