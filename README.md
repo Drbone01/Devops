@@ -56,13 +56,5 @@ phpinfo();
 sudo rm /var/www/projectlamp/index.php
 ```
 ```
-# Screenshots
-![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/projectlamp.PNG)
-
-![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/packages.PNG)
-
-![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/CLI.PNG)
-
-![image alt](https://github.com/Drbone01/Devops/blob/628f8dd0093b32a8eddfc4fd7f54778ab999a173/directories.PNG)
 
 
