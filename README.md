@@ -3,6 +3,7 @@
 [https://github.com/Drbone01/Devops](https://github.com/Drbone01/Devops)
 
 # Linkedin Post URL
+https://www.linkedin.com/posts/joseph-obisanya-638ab1247_github-drbone01devops-activity-7239714328570941441-AyC1?utm_source=share&utm_medium=member_desktop
 
 ```sql
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1';
@@ -56,7 +57,14 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 # Screenshots
-![Screenshot 1] Devops/packages.png
-![Screenshot 1] Devops/projectlamp.png
-![Screenshot 1] Devops/directories.png
-![Screenshot 1] Devops/CLI.png
+![Screenshot 1] 
+(packages.png)
+
+![Screenshot 2] 
+(projectlamp.png)
+
+![Screenshot 3] 
+(directories.png)
+
+![Screenshot 4] 
+(CLI.png)
