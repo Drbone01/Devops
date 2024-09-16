@@ -54,7 +54,7 @@ phpinfo();
 
 ```bash
 sudo rm /var/www/projectlamp/index.php
-![Screenshot of lamp project](/packages.PNG)
+![Screenshot of lamp project](./packages.PNG)
 ```
 ```
 
