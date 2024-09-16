@@ -58,5 +58,10 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 
-
+```bash
+![Screenshot of lamp project](./packages.PNG)
+![Screenshot of lamp project](./directories.PNG)
+![Screenshot of lamp project](./projectlamp.PNG)
+![Screenshot of lamp project](./CLI.PNG)
+```
 
