@@ -57,5 +57,5 @@ sudo rm /var/www/projectlamp/index.php
 ```
 ```
 
-![Screenshot of project](./packages.png)
+![Screenshot of project](./packages.PNG)
 
