@@ -13,8 +13,10 @@ To begin the setup, I updated my package index and installed NGINX:
 sudo apt update
 sudo apt install nginx
 ```
+![Nginx Installation](path/to/Nginx_Installation.PNG)
 After installation, I verified NGINX was running by checking its status:
 sudo systemctl status nginx
+
 
 To ensure the server was working, I opened a browser and visited http://localhost:80 using
 ```bash
