@@ -2,6 +2,7 @@
 [https://github.com/Drbone01/Devops](https://github.com/Drbone01/Devops)
 
 # LinkedIn Post
+https://www.linkedin.com/posts/joseph-obisanya-638ab1247_devopsdevopslempsetupmd-at-main-drbone01-activity-7242519898927644674-tsE0?utm_source=share&utm_medium=member_desktop
 
 ```bash
 sudo apt update
