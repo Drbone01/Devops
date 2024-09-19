@@ -13,11 +13,10 @@ To begin the setup, I updated my package index and installed NGINX:
 sudo apt update
 sudo apt install nginx
 ```
-![Nginx Installation](https://github.com/Drbone01/Devops/blob/8375446799de9f0a9e6ad56a02cf5900374033c1/Nginx_Installation.PNG)
+![Nginx Installation](https://github.com/Drbone01/Devops/blob/8375446799de9f0a9e6ad56a02cf5900374033c1/nginx_config.PNG)
 
 After installation, I verified NGINX was running by checking its status:
 sudo systemctl status nginx
-
 
 To ensure the server was working, I opened a browser and visited http://localhost:80 using
 ```bash
@@ -43,6 +42,7 @@ PHP is required to process dynamic content, so I installed PHP and the necessary
 ```bash
 sudo apt install php-fpm php-mysql
 ```
+![PHP Installation](https://github.com/Drbone01/Devops/blob/8375446799de9f0a9e6ad56a02cf5900374033c1/Php_installation.PNG)
 
 #Step 4: Set Up Project Directory for the Website
 I created a directory for my LEMP project where I would store the web files:
@@ -56,6 +56,7 @@ To configure NGINX, I created a site configuration file for the project:
 ```bash
 sudo nano /etc/nginx/sites-available/projectLEMP
 ```
+
 I added the following content to the file:
 ```bash
 server {
@@ -79,6 +80,7 @@ server {
     }
 }
 ```
+![Nginx Configuration](https://github.com/Drbone01/Devops/blob/3fb8f35963a3dad0a4602ec30ac5d92b03b45122/nginx_config.PNG)
 
 Then, I enabled the site by creating a symbolic link to the configuration file:
 ```bash
@@ -89,6 +91,7 @@ Next, I tested the configuration and reloaded NGINX to apply the changes:
 sudo nginx -t
 sudo systemctl reload nginx
 ```
+![Nginx Configuration](https://github.com/Drbone01/Devops/blob/8375446799de9f0a9e6ad56a02cf5900374033c1/configuration_test.PNG)
 
 #Step 6: Add Dynamic Content to the Website
 To make the site more dynamic, I added a command to display the public hostname and IP of my cloud instance on the webpage
