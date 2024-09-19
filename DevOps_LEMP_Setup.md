@@ -13,7 +13,8 @@ To begin the setup, I updated my package index and installed NGINX:
 sudo apt update
 sudo apt install nginx
 ```
-![Nginx Installation](path/to/Nginx_Installation.PNG)
+![Nginx Installation](https://github.com/Drbone01/Devops/blob/8375446799de9f0a9e6ad56a02cf5900374033c1/Nginx_Installation.PNG)
+
 After installation, I verified NGINX was running by checking its status:
 sudo systemctl status nginx
 
